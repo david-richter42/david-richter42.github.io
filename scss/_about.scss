@@ -1,0 +1,13 @@
+.about-section {
+  padding-top: 10rem;
+  height: 60rem;
+  background: #1a1a1a;
+  background: linear-gradient(to bottom, #{fade-out($black, .7)} 0%,#{fade-out($black, .3)} 75%,$black 100%),
+              url("../img/color_cubes.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  width
+  p {
+    margin-bottom: 5rem;
+  }
+}
